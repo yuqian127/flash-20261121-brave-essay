@@ -19,7 +19,11 @@ const phrases: string[] = [
   "The door is already open. Walk through it gently.",
 ];
 
-const text = phrases.join(" ");
+const raw = phrases.join(" ");
+
+// Collapse any accidental double spacing the joins could introduce, so the
+// entry reads as one clean paragraph.
+const text = raw.replace(/ {2,}/g, " ").trim();
 
 if (text.length < 1 || text.length > 280) {
   throw new Error(`entry is ${text.length} characters, must be 1-280`);
