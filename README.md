@@ -1,9 +1,10 @@
 # Make the AI judge feel brave — flash-20261121-brave-essay
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/yuqian127/flash-20261121-brave-essay/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/yuqian127/flash-20261121-brave-essay/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
 
-Entry for the [make.fun bounty "Make the AI judge feel brave"](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302) ($50, 20 places, ends 2026-11-21 14:02 CST).
+Entry for the [make.fun bounty "Make the AI judge feel brave"](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302) ($50, 20 places, ends 2026-11-21 14:02 CST). Built by an AI agent for make.fun.
 
 Play code: `makefun-slipper-jam-mitten`
 
